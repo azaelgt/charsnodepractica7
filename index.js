@@ -65,3 +65,10 @@ server.delete("/koders/:name", (request, response) => {
     });
   }
 });
+server.delete("/koders", (request, response) => {
+    writeDataFile([]);
+    response.json({
+      message: "Todos los koders han sido eliminados",
+      koders: []
+    });
+  });

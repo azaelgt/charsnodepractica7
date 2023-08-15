@@ -1,18 +1,17 @@
 [
-  {},
   {
-    "name": "azael",
-    "age": 38,
-    "email": "azael@homail.com"
+    "name": "elias",
+    "age": 25,
+    "email": "elias@kodemia.com"
   },
   {
-    "name": "claudia",
-    "age": 30,
-    "email": "claudia@homail.com"
+    "name": "elias",
+    "age": 25,
+    "email": "elias@kodemia.com"
   },
   {
-    "name": "daniel",
-    "age": 31,
-    "email": "daniel@homail.com"
+    "name": "elias",
+    "age": 25,
+    "email": "elias@kodemia.com"
   }
 ]
